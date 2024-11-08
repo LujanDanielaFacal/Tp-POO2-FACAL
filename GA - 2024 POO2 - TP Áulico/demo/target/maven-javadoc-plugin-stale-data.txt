@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/src/main/java/com/example/adapter/Convertidor.java'
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/src/main/java/com/example/adapter/Usuario.java'
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/src/main/java/com/example/adapter/UsuarioAdapter.java'
+'C:/Users/DELL/Desktop/GA - 2024 POO2 - TP Áulico/demo/src/main/java/com/example/MainAdapter.java'
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\src\main\java = 1731102084844
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\allclasses-index.html = 1731105881279
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\allpackages-index.html = 1731105881282
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\copy.svg = 1731105881322
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\element-list = 1731105881176
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\help-doc.html = 1731105881315
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\index-all.html = 1731105881302
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\index.html = 1731105881262
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\link.svg = 1731105881324
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\member-search-index.js = 1731105881288
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\module-search-index.js = 1731105881284
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\overview-summary.html = 1731105881308
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\overview-tree.html = 1731105881258
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\package-search-index.js = 1731105881285
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\script.js = 1731105881321
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\search-page.js = 1731105881329
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\search.html = 1731105881305
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\search.js = 1731105881327
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\stylesheet.css = 1731105881319
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\tag-search-index.js = 1731105881289
+C:\Users\DELL\Desktop\GA - 2024 POO2 - TP Áulico\demo\target\site\apidocs\type-search-index.js = 1731105881286

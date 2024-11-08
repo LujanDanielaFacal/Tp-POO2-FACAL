@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.adapter","l":"Convertidor"},{"p":"com.example","l":"MainAdapter"},{"p":"com.example.adapter","l":"Usuario"},{"p":"com.example.adapter","l":"UsuarioAdapter"}];updateSearchResults();
